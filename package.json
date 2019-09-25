@@ -1,0 +1,26 @@
+{
+  "name": "amazon-qldb",
+  "version": "1.0.0",
+  "description": "Amazon Qldb Driver for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exumity/amazon-qldb.git"
+  },
+  "keywords": [
+    "amazon",
+    "qldb",
+    "driver",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Halil Savaşcı <mail@halilsavasci.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exumity/amazon-qldb/issues"
+  },
+  "homepage": "https://github.com/exumity/amazon-qldb#readme"
+}
