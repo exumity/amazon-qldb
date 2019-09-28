@@ -2,6 +2,8 @@
 
 Amazon Qldb Driver for Javascript.
 
+### Don't install for now. Please wait new version.
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com) to install foobar.
