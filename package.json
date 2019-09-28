@@ -1,6 +1,6 @@
 {
   "name": "amazon-qldb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazon Qldb Driver for Javascript",
   "main": "index.js",
   "scripts": {
